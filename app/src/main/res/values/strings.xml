@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">أذكار الصباح</string>
+    <string name="morning_azkar">أذكار الصباح</string>
+    <string name="completed">تم</string>
+    <string name="reset">إعادة</string>
+    <string name="reset_all">إعادة الكل</string>
+    <string name="progress">التقدم</string>
+    <string name="times">مرة</string>
+    <string name="times_plural">مرات</string>
+</resources>
+

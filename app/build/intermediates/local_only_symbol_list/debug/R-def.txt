@@ -1,0 +1,23 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color gray_light
+color gray_medium
+color green_dark
+color green_light
+color green_primary
+color text_primary
+color text_secondary
+color white
+mipmap ic_launcher
+string app_name
+string completed
+string morning_azkar
+string progress
+string reset
+string reset_all
+string times
+string times_plural
+style Theme.AzkarSabah
+xml backup_rules
+xml data_extraction_rules
